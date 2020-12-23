@@ -1,4 +1,4 @@
-# CMIK
+# Copula-based Multiple Indicator Kriging (CMIK)
 The repository consists of R codes for the research paper "Copula-based Multiple Indicator Kriging for non-Gaussian Random Fields".
 
 # Abstract
