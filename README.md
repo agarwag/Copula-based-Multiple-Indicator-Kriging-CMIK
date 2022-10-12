@@ -1,5 +1,7 @@
 # Copula-based Multiple Indicator Kriging (CMIK)
 The repository consists of R codes for the research paper "Copula-based Multiple Indicator Kriging for non-Gaussian Random Fields".
 
+Dataset used in this reserach can be downloaded from https://www.ecad.eu/countries/country_overview.php
+
 # Abstract
 In spatial statistics, the kriging predictor is the best linear predictor at unsampled locations, but not the optimal predictor for non-Gaussian processes. In this paper, we introduce a copula-based multiple indicator kriging model for the analysis of non-Gaussian spatial data by thresholding the spatial observations at a given set of quantile values. The proposed copula model allows for flexible marginal distributions while modeling the spatial dependence via copulas. We show that the covariances required by kriging have a direct link to the chosen copula function. We then develop a semiparametric estimation procedure. The proposed method provides the entire predictive distribution function at a new location, and thus allows for both point and interval predictions. The proposed method demonstrates better predictive performance than the commonly used variogram approach and Gaussian kriging in the simulation studies. We illustrate our methods on precipitation data in Spain during November 2019, and heavy metal dataset in topsoil along the river Meuse, and obtain probability exceedance maps.
